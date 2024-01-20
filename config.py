@@ -16,7 +16,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", "-1001717726836"))  # Chat id of a group for
 PUBLICELOGS = int(getenv("PUBLICELOGS", "-1001841879487")) # Chat id of a group for Bot Added Messege/Leaved Messege U can Add Your Support Group id Aslo
 GBANLOGS = int(getenv("GBANLOGS", "-1001908711819")) #Add Here Your Gbans Logs Channel Id 
 OWNER_ID = int(getenv("OWNER_ID", "5360305806"))
-SULTAN = int(getenv("SULTAN", "5360305806"))# Get this value from @Sophia_x_MusicBot on Telegram by /id
+SULTAN = int(getenv("SULTAN", "2105971379"))# Get this value from @Sophia_x_MusicBot on Telegram by /id
 ## Fill these variables if you're deploying on heroku.
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")# Your heroku app name
 HEROKU_API_KEY = getenv("HEROKU_API_KEY") # Get it from http://dashboard.heroku.com/account
